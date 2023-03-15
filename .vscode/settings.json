@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "stdbool.h": "c",
+        "algorithm": "c",
+        "mpi.h": "c",
+        "cstdlib": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "functional": "c",
+        "array": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "regex": "c",
+        "utility": "c",
+        "valarray": "c",
+        "type_traits": "c"
+    }
+}
